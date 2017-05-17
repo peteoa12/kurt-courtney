@@ -1,0 +1,19 @@
+{
+  "name": "kurt-courtney",
+  "version": "1.0.0",
+  "description": "Portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteoa12/kurt-courtney.git"
+  },
+  "author": "Peter Norman peternormandev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peteoa12/kurt-courtney/issues"
+  },
+  "homepage": "https://github.com/peteoa12/kurt-courtney#readme"
+}
